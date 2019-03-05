@@ -7,6 +7,7 @@ def fizzbuzz(x)
   elsif x % 5 == 0
     puts "Buzz"
   else
+    puts "sweet"
   end
 
 end
