@@ -8,5 +8,5 @@ def fizzbuzz(x)
   elseif x % 5 == 0
     "Buzz"
   end
-else
+
 end
