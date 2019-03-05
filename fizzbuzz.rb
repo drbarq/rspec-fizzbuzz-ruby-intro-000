@@ -9,6 +9,6 @@ def fizzbuzz(x)
   elsif x % 3 == 0
     "Fizz"
   else
-    "nil"
+    nil
   end
 end
