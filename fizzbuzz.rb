@@ -9,5 +9,4 @@ def fizzbuzz(x)
   else
     puts "sweet"
   end
-
 end
